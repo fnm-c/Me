@@ -16,7 +16,7 @@ Languages ​​that I have mastered or am learning
 
 <br />
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 </p>
 
