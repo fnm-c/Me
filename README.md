@@ -18,15 +18,6 @@ Languages ​​that I have mastered or am learning
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=fnm-c&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnm-c&layout=compact&langs_count=8&theme=tokyonight"
-  />
 </p>
 
 <br />
